@@ -6,4 +6,14 @@
 </p>
 
 short description of the project
-Dried maggots are widely used as animal feed. To obtain them, they need to go through a proper drying process. Drying them in the oven causes the maggots to burn easily and causes danger to livestock. Therefore, this tool provides a solution for drying maggots that is cheap and fast because it uses a cylindrical aluminum plate layer and able to reflect sunlight so that more hot light enters, making the temperature in the room higher
+Dried maggots are widely used as animal feed. To obtain them, they need to go through a proper drying process. Drying them in the oven causes the maggots to burn easily and causes danger to livestock. Therefore, this tool provides a solution for drying maggots that is cheap and fast because it uses a cylindrical aluminum plate layer and able to reflect sunlight so that more hot light enters, making the temperature in the room higher. The maximum temperature produced can reach 70 degrees Celsius
+
+I designed the prototype using the Prisma 3D application on a smartphone
+
+<p align="center">
+ <img src="https://github.com/arutafusain/solar-powered-maggot-dryer/assets/98148350/928ae6d4-646f-4ac4-9f75-cdba26788f9b" width="400" />
+ <img src="https://github.com/arutafusain/solar-powered-maggot-dryer/assets/98148350/5c2fec11-fe83-4f68-b693-9783125bb211" width="400" />
+</p>
+
+
+
