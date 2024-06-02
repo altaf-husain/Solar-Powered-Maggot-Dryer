@@ -15,7 +15,8 @@ I designed the prototype using the Prisma 3D application on a smartphone
  <img src="https://github.com/arutafusain/solar-powered-maggot-dryer/assets/98148350/5c2fec11-fe83-4f68-b693-9783125bb211" width="400" />
 </p>
 
-[you can check my full prototype in my Youtube channel inlink bellow]
-(https://youtu.be/43ZbGo1Bafc?si=c7yFL9XNMuLLYRJ2)
+<p>you can check my full prototype in my Youtube channel in link bellow </p> 
+<p>(https://youtu.be/43ZbGo1Bafc?si=c7yFL9XNMuLLYRJ2) </p>
+
 
 
